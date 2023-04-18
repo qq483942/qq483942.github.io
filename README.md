@@ -1,5 +1,3 @@
-# Java自用资料
-
 ##### JavaSE
 
 - <a href="https://qq483942.github.io/JavaSE尚硅谷_宋红康/尚硅谷_宋红康_Java全程课程目录.pdf" target="_blank">Java全程课程目录</a>
