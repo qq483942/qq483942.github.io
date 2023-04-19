@@ -24,21 +24,14 @@
 
 - <a href="https://qq483942.github.io/JavaSE拓展/尚硅谷_宋红康_计算机字符编码.pdf" target="_blank">计算机字符编码.pdf</a>
 - <a href="https://qq483942.github.io/JavaSE拓展/附录：尚硅谷_宋红康_排序算法.pdf" target="_blank">附录：排序算法.pdf</a>
-
 - <a href="https://qq483942.github.io/JavaSE拓展/拓展：类与类之间的关系说明.pdf" target="_blank">拓展：类与类之间的关系说明.pdf</a>
-
 - <a href="https://qq483942.github.io/JavaSE拓展/尚硅谷_宋红康_Java基础_泛型.pdf" target="_blank">Java基础_泛型.pdf</a>
-
 - <a href="https://qq483942.github.io/JavaSE拓展/拓展：native关键字.pdf" target="_blank">拓展：native关键字.pdf</a>
-
 - <a href="https://qq483942.github.io/JavaSE拓展/拓展：工厂设计模式.pdf" target="_blank">拓展：工厂设计模式.pdf</a>
-
 - <a href="https://qq483942.github.io/JavaSE拓展/拓展：装饰设计模式.pdf" target="_blank">拓展：装饰设计模式.pdf</a>
-
 - <a href="https://qq483942.github.io/JavaSE拓展/尚硅谷_宋红康_Java 之23种设计模式解析.pdf" target="_blank">23种设计模式解析.pdf</a>
-
 - <a href="https://qq483942.github.io/JavaSE拓展/尚硅谷_宋红康_Java 5-11各个版本新特性最全总结.pdf" target="_blank">Java 5-11各个版本新特性最全总结</a>
 
 ##### JavaSE基础总结
 
-- <a href="https://qq483942.github.io/JavaSE总结/Java基础知识总结（绝对经典）.docx" target="_blank">Java基础知识总结（绝对经典）</a>
+- <a href="https://qq483942.github.io/JavaSE总结/Java基础知识总结 - 超详细篇收藏.pdf" target="_blank">Java基础知识总结 - 超详细篇收藏.pdf</a>
